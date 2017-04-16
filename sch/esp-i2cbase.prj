@@ -1,6 +1,6 @@
 schematics esp-i2cbase.sch
 output-name ../pcb/esp-i2cbase
 skip-m4
-elements-dir ../../../footprints
+elements-dir ../../ise-footprints
 
 
